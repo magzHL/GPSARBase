@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: f7b90780c7e657441848349557a9d66f
+  - enabled: 1
+    path: Assets/Scenes/HuntIntro.unity
+    guid: 1d1fca6d5312d264990a54f1b705ae8f
+  - enabled: 1
+    path: Assets/Scenes/Hunt01.unity
+    guid: de2630fd61784774caf3010e7f97157c
+  - enabled: 1
+    path: Assets/Scenes/Hunt01AR.unity
+    guid: dcff8866d711b1d408e3e1e41fb268bb
+  - enabled: 1
+    path: Assets/Scenes/Hunt02.unity
+    guid: ff1792a661cc3a64ba6b71eb38d3f5a0
+  - enabled: 1
+    path: Assets/Scenes/Hunt02AR.unity
+    guid: 0eef1b4a8b3f16a4499ea493b89688cf
+  - enabled: 0
+    path: Assets/Scenes/Hunt03.unity
+    guid: 7e73accbfcbbf954d82be0a850d8dfe7
+  - enabled: 0
+    path: Assets/Scenes/Hunt04.unity
+    guid: ef6f180321b8dc24bb223f372076ad91
+  - enabled: 0
+    path: Assets/Scenes/Hunt05.unity
+    guid: 06ad0c7eb4cbfce4ba3bc922a4725366
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: df5e8da435bb0164cb9efbb6f27deca0, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: de2718883e1ce1b408bb14cce5f68709, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: bb550946a98ef5e43b629a4b3aecdee0, type: 2}
